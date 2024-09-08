@@ -13,11 +13,11 @@ Also, you can just add Duckdb JDBC driver to query DuckDB.
 1. Install DBeaver. [download page](https://dbeaver.io/download/)
 2. Open DBeaver and create a new connection. Either click on the “New Database Connection” button or go to Database > New Database Connection in the menu bar.
    
-   ![method 1](./image/p01-DBeaver_new_database_connection.png)
+   ![method 1](./image/p201-DBeaver_new_database_connection.png)
    
-   ![method 2](./image/p02-DBeaver_new_database_connection_menu.png)
+   ![method 2](./image/p202-DBeaver_new_database_connection_menu.png)
 3. Search for DuckDB, select it, and click Next.
-   ![p203](./image/p203-DBeaver_select_database_driver.png)
+   ![select database](./image/p203-DBeaver_select_database_driver.png)
 4. 1
 
 
